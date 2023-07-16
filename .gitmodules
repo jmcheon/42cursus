@@ -1,0 +1,6 @@
+[submodule "maths_branch"]
+	path = maths_branch
+	url = https://github.com/jmcheon/maths_branch
+[submodule "algo_ai_data_branch"]
+	path = algo_ai_data_branch
+	url = https://github.com/jmcheon/algo_ai_data_branch
