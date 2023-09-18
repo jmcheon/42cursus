@@ -4,3 +4,6 @@
 [submodule "algo_ai_data_branch"]
 	path = algo_ai_data_branch
 	url = https://github.com/jmcheon/algo_ai_data_branch
+[submodule "web_mobile_branch"]
+	path = web_mobile_branch
+	url = https://github.com/jmcheon/web_mobile_branch
