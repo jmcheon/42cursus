@@ -1,9 +1,12 @@
 [submodule "maths_branch"]
 	path = maths_branch
 	url = https://github.com/jmcheon/maths_branch
+	branch = main
 [submodule "algo_ai_data_branch"]
 	path = algo_ai_data_branch
 	url = https://github.com/jmcheon/algo_ai_data_branch
+	branch = main
 [submodule "web_mobile_branch"]
 	path = web_mobile_branch
 	url = https://github.com/jmcheon/web_mobile_branch
+	branch = main
