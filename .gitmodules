@@ -13,3 +13,4 @@
 [submodule "system_kernel_branch"]
 	path = system_kernel_branch
 	url = https://github.com/jmcheon/system_kernel_branch
+	branch = main
