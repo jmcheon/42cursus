@@ -10,3 +10,6 @@
 	path = web_mobile_branch
 	url = https://github.com/jmcheon/web_mobile_branch
 	branch = main
+[submodule "system_kernel_branch"]
+	path = system_kernel_branch
+	url = https://github.com/jmcheon/system_kernel_branch
