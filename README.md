@@ -48,11 +48,13 @@
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"  width=40px>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original-wordmark.svg" alt="Mathplotlib" width=40px>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/networkx/networkx-original.svg" alt="Networkx" width=40px>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width=40px>
 </tr>
 <tr><td>n-puzzle <td><td></tr>
 <tr><td>rubik <td><td></tr>
 <tr><td>expert-system <td>125%<td>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"  width=40px>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width=40px>
 </tr>
 <tr><td>krpsim <td>115%<td>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"  width=40px>
@@ -72,13 +74,17 @@
 <table>
 <tr><th>Project</th><th>Mark</th></th><th>Stack</th></tr>
 <tr><td>ready_set_boole <td>100%<td>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++"  width=40px></tr>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++"  width=40px>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width=40px>
+</tr>
 <tr><td>matrix <td>125%<td>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"  width=40px>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="Numpy" width=40px>
 </tr>
 <tr><td>ft_kalman <td><td></tr>
-<tr><td>computorv1 <td>125%<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++"  width=40px></tr>
+<tr><td>computorv1 <td>125%<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++"  width=40px>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width=40px>
+</tr>
 <tr><td>computorv2 <td><td></tr>
 </table>
 
@@ -101,3 +107,4 @@
 <tr><td>swifty-companion <td><td></tr>
 <tr><td>swifty-proteins <td><td></tr>
 </table>
+
