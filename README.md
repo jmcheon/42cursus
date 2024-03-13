@@ -98,7 +98,7 @@
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"  width=40px>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3"  width=40px>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"  width=40px>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="Django" width=40px>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width=40px>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vagrant/vagrant-original.svg" alt="Vagrant" width=40px>
 </tr>
 <tr>
@@ -106,14 +106,16 @@
 </tr>
 <tr><td>darkly <td><td></tr>
 <tr><td>camagru</td><td></td><td></td></tr>
-<tr><td>matcha<td><td>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js"  width=40px>
+<tr><td>matcha<td>WIP<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pnpm/pnpm-original-wordmark.svg" alt="Pnpm" width=40px>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue.js" width=40px>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwindcss" width=40px>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuetify/vuetify-original.svg" alt="Vuetify" width=40px>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt 3" width="40px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js"  width=40px>
 <img 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40px">
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40px">
 <img src="https://iconape.com/wp-content/png_logo_vector/typescript.png" alt="TypeScript" width="40px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL"  width=40px>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="Docker" width="40px">
@@ -121,12 +123,13 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/exp
 <tr><td>red-tetris<td><td>
 </tr>
 <tr><td>music-room<td><td></tr>
-<tr><td>hypertube<td>WIP<td><div>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js"  width=40px>
+<tr><td>hypertube<td>125%<td><div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pnpm/pnpm-original-wordmark.svg" alt="Pnpm" width=40px>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue.js" width=40px>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwindcss" width=40px>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Primevue" width=40px>
+<img src="https://i2.wp.com/www.primefaces.org/wp-content/uploads/2019/12/primevue-logo.png?fit=300%2C300&ssl=1" alt="Tailwindcss" width=40px>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt 3" width="40px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js"  width=40px>
 <img 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="NestJS" width="40px">
 <img src="https://iconape.com/wp-content/png_logo_vector/typescript.png" alt="TypeScript" width="40px">
