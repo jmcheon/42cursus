@@ -14,3 +14,6 @@
 	path = system_kernel_branch
 	url = https://github.com/jmcheon/system_kernel_branch
 	branch = main
+[submodule "devops_branch"]
+	path = devops_branch
+	url = https://github.com/jmcheon/devops_branch
