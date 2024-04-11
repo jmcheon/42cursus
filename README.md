@@ -113,7 +113,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vagrant/vagrant-original.svg" alt="Vagrant" width=40px>
 </tr>
 <tr><td>Piscine Symfony <td><td></tr>
-<tr><td>tokenizer <td>WIP<td>
+<tr><td>Tokenizer <td>WIP<td>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity"  width=40px>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hardhat/hardhat-original.svg" alt="Hardhat"  width=40px>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"  width=40px>
