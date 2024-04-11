@@ -1,13 +1,18 @@
 
-# 42cursus
+# 42cursus (RNCP 7)
 
 ### Table of Contents
-- [Algo, AI, data branch](#algo-ai-data-branch)
-- [Maths branch](#maths-branch)
-- [Web, Mobile branch](#web-mobile-branch)
-- [System, Kernel branch](#system-kernel-branch)
+1. [Database architecture and data Specialization](#1)
+	- [Algo, AI, data branch](#algo-ai-data-branch)
+  	- [Maths branch](#maths-branch)
+  	- [Web, Mobile branch](#web-mobile-branch)
+2. [Network Information Systems Architecture Specialization](#2)
+  	- [System, Kernel branch](#system-kernel-branch)
+  	- [Devops branch](#devops-branch)
 
-## Algo, AI, data branch
+<a id="1"></a>
+## 1. Database architecture and data Specialization
+### Algo, AI, data branch
 <table>
 <tr><th>Project</th><th>Mark</th></th><th>Stack</th></tr>
 <tr><td>[DEPRECATED]ml_piscine <td>100%<td>
@@ -75,7 +80,7 @@
 </tr>
 </table>
 
-## Maths branch
+### Maths branch
 
 <table>
 <tr><th>Project</th><th>Mark</th></th><th>Stack</th></tr>
@@ -95,7 +100,7 @@
 </table>
 
 
-## Web, Mobile branch
+### Web, Mobile branch
 
 <table>
 <tr><th>Project</th><th>Mark</th></th><th>Stack</th></tr>
@@ -107,8 +112,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width=40px>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vagrant/vagrant-original.svg" alt="Vagrant" width=40px>
 </tr>
-<tr>
-	<td>Piscine Symfony <td><td>
+<tr><td>Piscine Symfony <td><td></tr>
+<tr><td>tokenizer <td>WIP<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity"  width=40px>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hardhat/hardhat-original.svg" alt="Hardhat"  width=40px>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"  width=40px>
 </tr>
 <tr><td>darkly <td><td></tr>
 <tr><td>camagru</td><td></td><td></td></tr>
@@ -147,8 +155,12 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nest
 <tr><td>swifty-proteins <td><td></tr>
 </table>
 
+<br>
+<br>
 
-## System, Kernel branch
+<a id="2"></a>
+## 2. Network Information Systems Architecture Specialization
+### System, Kernel branch
 <table>
 <tr><th>Project</th><th>Mark</th><th>Stack</th></tr>
 <tr><td>libasm<td>125%<td>
@@ -170,5 +182,21 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nest
 <span>Assembly</span>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C"  width=40px>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width=40px>
+</tr>
+</table>
+
+### Devops branch
+
+<table>
+<tr><th>Project</th><th>Mark</th><th>Stack</th></tr>
+<tr><td>cloud-1<td>100%<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original-wordmark.svg" alt="Ansible" width=40px>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vagrant/vagrant-original.svg" alt="Vagrant" width=40px>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width=40px>
+</tr>
+<tr><td>Inception-of-Things<td><td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width=40px>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="Docker" width="40px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original-wordmark.svg" alt="Argocd" width=40px>
 </tr>
 </table>
