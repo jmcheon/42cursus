@@ -1,18 +1,21 @@
-
 # 42cursus (RNCP 7)
 
 ### Table of Contents
+
 1. [Database architecture and data Specialization](#1)
-	- [Algo, AI, data branch](#algo-ai-data-branch)
-  	- [Maths branch](#maths-branch)
-  	- [Web, Mobile branch](#web-mobile-branch)
+   - [Algo, AI, data branch](#algo-ai-data-branch)
+   - [Maths branch](#maths-branch)
+   - [Web, Mobile branch](#web-mobile-branch)
 2. [Network Information Systems Architecture Specialization](#2)
-  	- [System, Kernel branch](#system-kernel-branch)
-  	- [Devops branch](#devops-branch)
+   - [System, Kernel branch](#system-kernel-branch)
+   - [Devops branch](#devops-branch)
 
 <a id="1"></a>
+
 ## 1. Database architecture and data Specialization
+
 ### Algo, AI, data branch
+
 <table>
 <tr><th>Project</th><th>Mark</th></th><th>Stack</th></tr>
 <tr><td>[DEPRECATED]ml_piscine <td>100%<td>
@@ -40,7 +43,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original-wordmark.svg" alt="Mathplotlib" width=40px>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width=40px>
 </tr>
-<tr><td>Leaffliction <td><td>
+<tr><td>Leaffliction <td>100%<td>
+	<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"  width=40px>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original-wordmark.svg" alt="Mathplotlib" width=40px>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original-wordmark.svg" alt="OpenCV"  width=40px>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="Pytorch"  width=40px>
 </tr>
 <tr>
 	<td>Multilayer_Perceptron<td>125%<td>
@@ -98,7 +105,6 @@
 </tr>
 <tr><td>computorv2 <td><td></tr>
 </table>
-
 
 ### Web, Mobile branch
 
@@ -158,8 +164,11 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nest
 <br>
 
 <a id="2"></a>
+
 ## 2. Network Information Systems Architecture Specialization
+
 ### System, Kernel branch
+
 <table>
 <tr><th>Project</th><th>Mark</th><th>Stack</th></tr>
 <tr><td>libasm<td>125%<td>
