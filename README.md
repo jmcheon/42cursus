@@ -111,7 +111,7 @@
 <table>
 <tr><th>Project</th><th>Mark</th></th><th>Stack</th></tr>
 <tr>
-	<td>Piscine Django <td>WIP<td>
+	<td>Piscine Django <td>100%<td>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"  width=40px>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3"  width=40px>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"  width=40px>
@@ -120,6 +120,10 @@
 </tr>
 <tr><td>Piscine Symfony <td><td></tr>
 <tr><td>Tokenizer <td>120%<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity"  width=40px>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hardhat/hardhat-original.svg" alt="Hardhat"  width=40px>
+</tr>
+<tr><td>TokenizeArt <td>125%<td>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity"  width=40px>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hardhat/hardhat-original.svg" alt="Hardhat"  width=40px>
 </tr>
