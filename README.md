@@ -205,8 +205,9 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nest
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vagrant/vagrant-original.svg" alt="Vagrant" width=40px>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width=40px>
 </tr>
-<tr><td>Inception-of-Things<td><td>
+<tr><td>Inception-of-Things<td>WIP<td>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width=40px>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vagrant/vagrant-original.svg" alt="Vagrant" width=40px>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="Docker" width="40px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original-wordmark.svg" alt="Argocd" width=40px>
 </tr>
